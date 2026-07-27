@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Jiangsu-China"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mingyu Zhang / Academic Portfolio"
+title                    : "Mingyu Zhang(张明宇)"
 title_separator          : "-"
 name                     : &name "Mingyu Zhang"
 description              : &description "Academic portfolio of Mingyu Zhang, Master student in Integrated Circuits at Southeast University."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Mingyu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Master's Student focusing on Electronic Design Automation"
+  bio              : "M.S. Student, SEU"
   location         : "Wuxi-China"
   employer         : "Southeast University"
   uri              : # URL
