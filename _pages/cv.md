@@ -15,7 +15,6 @@ Education
   * Electronic Design Automation (EDA) Lab
   * Supervisor: Prof. Yarui Peng
 * **B.S. in Integrated Circuit Design and Integrated Systems**, Nanjing University of Posts and Telecommunications (NJUPT), 2022 - 2026
-  * **GPA:** 3.62 (Top 20%)
   * **Thesis:** *Design of a P-band Broadband Power Amplifier Based on LDMOS*
 
 Skills
